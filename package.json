@@ -5,7 +5,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "run:smart-contract": "npx hardhat run scripts/deploy.js --network rinkeby"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.5",
