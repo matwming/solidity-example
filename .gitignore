@@ -33,3 +33,13 @@ env.bat
 
 # vercel
 .vercel
+
+node_modules
+env.bat
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
